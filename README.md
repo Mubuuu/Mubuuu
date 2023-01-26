@@ -1,22 +1,18 @@
 
 [![MasterHead](https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif)](https://myprotfolio-9076f.firebaseapp.com/)
 
-<h1 align="center">Hi 👋, I'm Aneesh A</h1>
-<h3 align="center">A passionate Mobile app developer from India</h3>
+<h1 align="center">Hi 👋, I'm Muhammed Mubashir N</h1>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshdevala&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshdevala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aneesh172" target="blank"><img src="https://img.shields.io/twitter/follow/aneesh172?logo=twitter&style=for-the-badge" alt="aneesh172" /></a> </p>
 
-- 🔭 I’m currently working on [JobEzy JobPortal](hhttps://github.com/aneeshdevala/JobEzy)
-
-- 🌱 I’m currently learning **Dart, Flutter**
-
-- 👨‍💻 All of my projects are available at [https://myprotfolio-9076f.firebaseapp.com/]([https://myprotfolio-9076f.firebaseapp.com/](https://myprotfolio-9076f.firebaseapp.com/)
-
-- 💬 Ask me about **Dart , Flutter**
-
-- 📫 How to reach me **aneesh172.ant@gmail.com**
+- 🔭 I’m currently working on Connect with social media app.
+- 
+- 💬 Ask me about **Nodejs, Reactjs, Mongo DB and Javascript**
+- 
+- 📫 How to reach me **mubashirnanath@gmail.com**
 
 - ⚡ Fun fact **I think I am the Funny Man**
 
