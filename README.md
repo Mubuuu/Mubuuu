@@ -4,10 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on Connect with social media app.
 - 💬 Ask me about **Nodejs, Reactjs, Mongo DB and Javascript**
 - 📫 How to reach me **mubashirnanath@gmail.com*
-- ⚡ Fun fact **I think I am the Funny Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
